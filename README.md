@@ -1,4 +1,4 @@
-![-Izaura Souza-0077B5](https://github.com/user-attachments/assets/7301c62a-3fd0-4d5c-88ef-047324d8d9ed)
+![Izaura Souza](https://img.shields.io/badge/Izaura%20Souza-%F0%9F%92%96-ff69b4?style=for-the-badge)
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/93/78/79/937879a98e240e033631459f2975df2f.jpg" width="50%" />
@@ -36,21 +36,10 @@ const izaurahae = {
   objetivo: "Me tornar uma dev criativa e confiante!",
   hobbies: ["cosplay", "música", "desenho digital"]
 };
+````
 
-```
 
-## 💌 Me encontre por aqui
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/izaura-souza/" target="_blank">
-  <img src="https://img.icons8.com/color/48/ff69b4/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" />
-</a>
-
-<a href="mailto:izauraav3@gmail.com">
-  <img src="https://img.icons8.com/color/48/ff69b4/gmail-new.png" alt="Gmail" />
-</a>
-
-</div>
+💌 Me encontre por aqui
+<div align="center"> <a href="https://www.linkedin.com/in/izaura-souza/" target="_blank"> <img src="https://img.icons8.com/color/48/ff69b4/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" /> </a> <a href="mailto:izauraav3@gmail.com"> <img src="https://img.icons8.com/color/48/ff69b4/gmail-new.png" alt="Gmail" /> </a> </div> ```
 
      
