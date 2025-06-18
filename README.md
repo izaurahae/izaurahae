@@ -43,9 +43,14 @@ const izaurahae = {
 
 <div align="center">
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Izaura%20Souza-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaura-souza/)
+<a href="https://www.linkedin.com/in/izaura-souza/" target="_blank">
+  <img src="https://img.icons8.com/color/48/ff69b4/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" />
+</a>
 
-[![Email Badge](https://img.shields.io/badge/E--mail-izauraav3%40gmail.com-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izauraav3@gmail.com)
+<a href="mailto:izauraav3@gmail.com">
+  <img src="https://img.icons8.com/color/48/ff69b4/gmail-new.png" alt="Gmail" />
+</a>
 
 </div>
+
      
