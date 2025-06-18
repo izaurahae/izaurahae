@@ -38,8 +38,17 @@ const izaurahae = {
 };
 ````
 
-
 💌 Me encontre por aqui
-<div align="center"> <a href="https://www.linkedin.com/in/izaura-souza/" target="_blank"> <img src="https://img.icons8.com/color/48/ff69b4/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" /> </a> <a href="mailto:izauraav3@gmail.com"> <img src="https://img.icons8.com/color/48/ff69b4/gmail-new.png" alt="Gmail" /> </a> </div> ```
+<div align="center">
+  <a href="https://www.linkedin.com/in/izaura-souza/" target="_blank">
+    <img src="https://img.icons8.com/color/48/ff69b4/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" />
+  </a>
+  <a href="mailto:izauraav3@gmail.com">
+    <img src="https://img.icons8.com/color/48/ff69b4/gmail-new.png" alt="Gmail" />
+  </a>
+</div>
 
-     
+<div> Ícones feitos por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+<div> Ícones feitos por <a href="https://www.flaticon.com/br/autores/rukanicon" title="rukanicon">rukanicon</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+
+
