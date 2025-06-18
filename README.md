@@ -1,22 +1,29 @@
-# ✨ Olá, eu sou a Izaura!
+I'm Lucas, a Software Engineer at [**Zenvia**](https://www.zenvia.com/ "Zenvia Site"). <br/>
 
-- 🎨 Apaixonada por front-end, arte e design
-- 👩‍💻 Estudo programação (JavaScript, HTML, CSS)
-- 🌱 Atualmente me aventurando na área de **dados**, explorando **Python**, **SQL** e **Machine Learning**
-- 💼 Em busca de oportunidades na área tech para crescer e contribuir com projetos reais
+My goal is to build a solid career in software development, with a focus on specializing in backend technologies.
 
-## 🛠️ Tecnologias que uso no dia a dia:
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=fff)  
+You can get a glimpse of my career path through my [Linkedin profile](https://www.linkedin.com/in/lucas-morais-santos/)
 
-## 📈 Minhas estatísticas no GitHub:
-![Izaura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izaurahae&show_icons=true&theme=radical)
+Here are the technologies I have been working with:
 
----
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,java,spring,,mongodb,docker,k8s,kafka,aws&theme=dark&perline=6)](https://skillicons.dev)
 
-🌐 Me encontre por aqui:  
-[![LinkedIn Badge](https://img.shields.io/badge/-Izaura%20Souza-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/izaura-souza/)
+<!---
+In addition, I have experience and knowledge in the following technologies:
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,postgres&theme=dark)](https://skillicons.dev)
+--->
+
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 22 hrs 58 mins
+
+Java              10 hrs 43 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.66 %
+TypeScript        5 hrs 55 mins   ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.81 %
+Other             2 hrs 16 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.90 %
+CSV               1 hr 2 mins     ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.54 %
+Bash              46 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.37 %
+```
+
+<!--END_SECTION:waka-->
