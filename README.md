@@ -37,6 +37,8 @@ const izaurahae = {
   hobbies: ["cosplay", "música", "desenho digital"]
 };
 
+```
+
 
 ![api](https://github.com/user-attachments/assets/7fef1110-b288-4271-bc3a-42d00f045611)
       <svg
