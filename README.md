@@ -39,13 +39,13 @@ const izaurahae = {
 ````
 💌 Me encontre por aqui
 <div align="center">
-  <!-- Ícone do LinkedIn (novo tamanho) -->
+  <!-- Ícone do LinkedIn -->
   <a href="https://www.linkedin.com/in/izaura-souza/" target="_blank">
-    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/1383/1383262.svg?token=exp=1655793955~hmac=e2c7095a170f663d1fa8814ad4f14263" alt="LinkedIn" style="margin-right: 10px; width: 48px; height: 48px;" />
+    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/1384/1384014.svg?token=exp=1655860910~hmac=5e071fe4d6015a3e19511f0b2f2c6321" alt="LinkedIn" style="margin-right: 10px; width: 48px; height: 48px;" />
   </a>
   
-  <!-- Ícone do Gmail (novo tamanho) -->
+  <!-- Ícone do Gmail -->
   <a href="mailto:izauraav3@gmail.com">
-    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/732/732200.svg?token=exp=1655794102~hmac=848b2646fe27fa5b9fbe6a9f636e1426" alt="Gmail" style="width: 48px; height: 48px;" />
+    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/6244/6244438.svg?token=exp=1655860962~hmac=8c6604d9a1d1936c7e7ab9c20b8b4066" alt="Gmail" style="width: 48px; height: 48px;" />
   </a>
 </div>
