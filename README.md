@@ -39,6 +39,13 @@ const izaurahae = {
 
 ```
 
+## 💌 Me encontre por aqui
 
-![api](https://github.com/user-attachments/assets/7fef1110-b288-4271-bc3a-42d00f045611)
+<div align="center">
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Izaura%20Souza-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaura-souza/)
+
+[![Email Badge](https://img.shields.io/badge/E--mail-izauraav3%40gmail.com-ffb6c1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izauraav3@gmail.com)
+
+</div>
      
