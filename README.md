@@ -39,13 +39,13 @@ const izaurahae = {
 ````
 💌 Me encontre por aqui
 <div align="center">
-  <!-- Ícone do LinkedIn -->
+  <!-- Ícone do LinkedIn (novo) -->
   <a href="https://www.linkedin.com/in/izaura-souza/" target="_blank">
-    <img src="https://img.icons8.com/color/48/ff69b4/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" />
+    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/1383/1383262.svg?token=exp=1655793955~hmac=e2c7095a170f663d1fa8814ad4f14263" alt="LinkedIn" style="margin-right: 10px;" />
   </a>
   
-  <!-- Ícone do Gmail -->
+  <!-- Ícone do Gmail (novo) -->
   <a href="mailto:izauraav3@gmail.com">
-    <img src="https://img.icons8.com/color/48/ff69b4/gmail-new.png" alt="Gmail" />
+    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/732/732200.svg?token=exp=1655794102~hmac=848b2646fe27fa5b9fbe6a9f636e1426" alt="Gmail" />
   </a>
 </div>
