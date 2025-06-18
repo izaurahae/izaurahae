@@ -32,7 +32,7 @@ const izaurahae = {
   aprendendo: [ "Machine Learning", "UI/UX"],
   objetivo: "Me tornar uma dev criativa e confiante!",
   hobbies: ["cosplay", "música", "desenho digital"]
-}
+};
 
 
 ## 📈 Minhas estatísticas no GitHub:
