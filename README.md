@@ -1,29 +1,19 @@
-I'm Lucas, a Software Engineer at [**Zenvia**](https://www.zenvia.com/ "Zenvia Site"). <br/>
+# ✨ Olá, eu sou a Izaura!
 
-My goal is to build a solid career in software development, with a focus on specializing in backend technologies.
+- 🎨 Gosto de front-end, arte e design
+- 👩‍💻 Estudo programação (JavaScript, HTML, CSS)
+- 🌱 Atualmente aprendendo React e SQL
+- 💼 Em busca de oportunidades na área tech
 
-You can get a glimpse of my career path through my [Linkedin profile](https://www.linkedin.com/in/lucas-morais-santos/)
+## 🛠️ Tecnologias que uso:
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 
-Here are the technologies I have been working with:
+## 📈 Minhas estatísticas:
+![Izaura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izaurahae&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,nestjs,java,spring,,mongodb,docker,k8s,kafka,aws&theme=dark&perline=6)](https://skillicons.dev)
+---
+🌐 Me encontre:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)
 
-<!---
-In addition, I have experience and knowledge in the following technologies:
-
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,postgres&theme=dark)](https://skillicons.dev)
---->
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 22 hrs 58 mins
-
-Java              10 hrs 43 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   46.66 %
-TypeScript        5 hrs 55 mins   ⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.81 %
-Other             2 hrs 16 mins   ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.90 %
-CSV               1 hr 2 mins     ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.54 %
-Bash              46 mins         ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.37 %
-```
-
-<!--END_SECTION:waka-->
