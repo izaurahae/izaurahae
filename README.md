@@ -34,3 +34,12 @@ const izaurahae = {
   hobbies: ["cosplay", "música", "desenho digital"]
 }
 
+
+## 📈 Minhas estatísticas no GitHub:
+![Izaura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izaurahae&show_icons=true&theme=radical)
+
+---
+
+🌐 Me encontre por aqui:  
+[![LinkedIn Badge](https://img.shields.io/badge/-Izaura%20Souza-0077B5?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/izaura-souza/)
+
