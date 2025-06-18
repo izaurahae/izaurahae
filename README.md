@@ -41,11 +41,11 @@ const izaurahae = {
 <div align="center">
   <!-- Ícone do LinkedIn (novo tamanho) -->
   <a href="https://www.linkedin.com/in/izaura-souza/" target="_blank">
-    <img src="LINK_DO_ICONE_LINKEDIN_48px" alt="LinkedIn" style="margin-right: 10px; width: 48px; height: 48px;" />
+    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/1383/1383262.svg?token=exp=1655793955~hmac=e2c7095a170f663d1fa8814ad4f14263" alt="LinkedIn" style="margin-right: 10px; width: 48px; height: 48px;" />
   </a>
   
   <!-- Ícone do Gmail (novo tamanho) -->
   <a href="mailto:izauraav3@gmail.com">
-    <img src="LINK_DO_ICONE_GMAIL_48px" alt="Gmail" style="width: 48px; height: 48px;" />
+    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/732/732200.svg?token=exp=1655794102~hmac=848b2646fe27fa5b9fbe6a9f636e1426" alt="Gmail" style="width: 48px; height: 48px;" />
   </a>
 </div>
