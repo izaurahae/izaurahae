@@ -35,7 +35,7 @@ const izaurahae = {
 };
 
 
-## 📈 Minhas estatísticas no GitHub:
+### 📈 Minhas estatísticas no GitHub:
 ![Izaura's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izaurahae&show_icons=true&theme=radical)
 
 ---
