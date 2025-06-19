@@ -1,7 +1,7 @@
 ![Izaura Souza](https://img.shields.io/badge/Izaura%20Souza-%F0%9F%92%96-ff69b4?style=for-the-badge)
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/93/78/79/937879a98e240e033631459f2975df2f.jpg" width="50%" />
+  <img src="https://i.pinimg.com/736x/93/78/79/937879a98e240e033631459f2975df2f.jpg" width="30%" />
 </p>
 
 ## ✨ Sobre mim
@@ -38,14 +38,4 @@ const izaurahae = {
 };
 ````
 💌 Me encontre por aqui
-<div align="center">
-  <!-- Ícone do LinkedIn -->
-  <a href="https://www.linkedin.com/in/izaura-souza/" target="_blank">
-    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/1384/1384014.svg?token=exp=1655860910~hmac=5e071fe4d6015a3e19511f0b2f2c6321" alt="LinkedIn" style="margin-right: 10px; width: 48px; height: 48px;" />
-  </a>
-  
-  <!-- Ícone do Gmail -->
-  <a href="mailto:izauraav3@gmail.com">
-    <img src="https://www.flaticon.com/svg/vstatic/icons/svg/6244/6244438.svg?token=exp=1655860962~hmac=8c6604d9a1d1936c7e7ab9c20b8b4066" alt="Gmail" style="width: 48px; height: 48px;" />
-  </a>
-</div>
+<div align="center"> <a href="https://www.linkedin.com/in/izaura-souza/" target="_blank"> <img src="https://img.icons8.com/color/48/ff69b4/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" /> </a> <a href="mailto:izauraav3@gmail.com"> <img src="https://img.icons8.com/color/48/ff69b4/gmail-new.png" alt="Gmail" /> </a> </div>
