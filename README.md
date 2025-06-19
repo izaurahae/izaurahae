@@ -37,5 +37,5 @@ const izaurahae = {
   hobbies: ["cosplay", "música", "desenho digital"]
 };
 ````
-💌 Me encontre por aqui
+## 💌 Me encontre por aqui
 <div align="center"> <a href="https://www.linkedin.com/in/izaura-souza/" target="_blank"> <img src="https://img.icons8.com/color/48/ff69b4/linkedin.png" alt="LinkedIn" style="margin-right: 10px;" /> </a> <a href="mailto:izauraav3@gmail.com"> <img src="https://img.icons8.com/color/48/ff69b4/gmail-new.png" alt="Gmail" /> </a> </div>
